@@ -1,0 +1,27 @@
+这是debug日志
+这是info日志
+这是error日志
+这是debug日志
+这是info日志
+这是error日志
+这是debug日志
+这是info日志
+这是error日志
+这是debug日志
+这是info日志
+这是error日志
+这是debug日志
+这是info日志
+这是error日志
+这是debug日志
+这是info日志
+这是error日志
+这是debug日志
+这是info日志
+这是error日志
+这是debug日志
+这是info日志
+这是error日志
+2019-01-26 21:22:07,521 - DEBUG  - 这是debug日志
+2019-01-26 21:22:07,522 - INFO  - 这是info日志
+2019-01-26 21:22:07,522 - ERROR  - 这是error日志
